@@ -8,7 +8,7 @@ A currency conversion AI agent built using Google's ADK.
 - Built with Python and Google ADK
 
 ## Run
-
+Open terminal and run:
 ```bash
 adk web
 ```
